@@ -1,0 +1,1 @@
+Six months fullstack learning
